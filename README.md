@@ -1,4 +1,5 @@
-# Demo: contact-list-vue.netlify.app
+# Demo:
+contact-list-vue.netlify.app
 
 ## Build Setup
 
